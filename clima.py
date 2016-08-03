@@ -7,7 +7,7 @@
 # E-mail: ejmalfatti@outlook.com
 # GitHub: https://ejmalfatti.github.io
 # Licencia: GPLv3
-##################################################################
+###################################################################################
 
 from pyql.weather.forecast import Forecast
 woeid = 91862968
